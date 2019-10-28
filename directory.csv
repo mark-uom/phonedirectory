@@ -1,8 +1,8 @@
-name,surname,countrycode,phone
-John,Jones,44,7504743321
-Patrick,Mahoney,356,998944567
-Linda,Borg,356,79654567
-Elaine,Grech,356,77877787
-Michael,Sammut,39,45666789
-Joseph,Smith,44,23123123
-Donald,Tusk,356,54234234
+name,surname,countrycode,phone,email
+John,Jones,44,7504743321,jj@gmail.com
+Patrick,Mahoney,356,998944567,ph@gmail.com
+Linda,Borg,356,79654567,lb@gmail.com
+Elaine,Grech,356,77877787,eg@gmail.com
+Michael,Sammut,39,45666789,ms@gmail.com
+Joseph,Smith,44,23123123,js@gmail.com
+Donald,Tusk,356,54234234,dt@eu.com
